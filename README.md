@@ -1,1 +1,1 @@
-# CustomerCategory
+# CustomerPredictorApp
